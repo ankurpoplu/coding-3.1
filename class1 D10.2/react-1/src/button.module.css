@@ -1,0 +1,44 @@
+.button{
+    float: left;
+    margin: 10px;
+}
+
+.mybtn{
+    width: 140px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+}
+
+#b1{
+    background-color: rgb(33,147,201);
+    border: none;
+}
+#b2{
+    background-color: rgb(120,161,180);
+    border: none;
+}
+#b3{
+    background-color: rgb(246,151,41);
+    border: none;
+}
+#b4{
+    background-color: rgb(175,36,46);
+    border: none;
+}
+#b5{
+    background-color: rgb(113,165,64);
+    border: none;
+}
+#b6{
+    background-color: rgb(82,77,134);
+    border: none;
+}
+#b7{
+    background-color: rgb(216,66,128);
+    border: none;
+}
+#b8{
+    background-color: rgb(164,126,63);
+    border: none;
+}
