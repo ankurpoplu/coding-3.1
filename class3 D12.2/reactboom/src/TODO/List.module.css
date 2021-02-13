@@ -1,0 +1,13 @@
+.lst{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 33%;
+}
+.sing{
+    margin: 0 20px;
+    font-size: 20px;
+    font-weight: 600;
+    width: 150px;
+}

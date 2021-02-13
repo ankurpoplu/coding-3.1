@@ -1,0 +1,359 @@
+[{
+    "id": "b0917d72-a8df-4758-beee-b236b11e9bbe",
+    "stars": 4.4,
+    "total_votes": 5281,
+    "reviews": 628,
+    "cost_for_one": 3119,
+    "categories": [
+      "Chinese",
+      "North Indian",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Biodex",
+    "time": 33
+  }, {
+    "id": "0493bc22-079e-4f38-b43c-95751f103ec4",
+    "stars": 1.6,
+    "total_votes": 607,
+    "reviews": 32,
+    "cost_for_one": 985,
+    "categories": [
+      "North Indian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Regrant",
+    "time": 26
+  }, {
+    "id": "7cebaadb-a307-45eb-b6d3-edfd773887fe",
+    "stars": 2.1,
+    "total_votes": 3175,
+    "reviews": 177,
+    "cost_for_one": 1643,
+    "categories": [
+      "Mughlai"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Fintone",
+    "time": 37
+  }, {
+    "id": "31f99a4e-2f27-404d-80af-5a497258267c",
+    "stars": 1.2,
+    "total_votes": 3648,
+    "reviews": 95,
+    "cost_for_one": 4333,
+    "categories": [
+      "Italian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NDR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Ronstring",
+    "time": 33
+  }, {
+    "id": "077d36ba-658b-4ab0-a43d-e8351ee01193",
+    "stars": 2.0,
+    "total_votes": 9197,
+    "reviews": 39,
+    "cost_for_one": 1267,
+    "categories": [
+      "North Indian",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Fixflex",
+    "time": 33
+  }, {
+    "id": "dbe058f0-3be6-42ad-8e83-2699b3100975",
+    "stars": 2.4,
+    "total_votes": 8942,
+    "reviews": 87,
+    "cost_for_one": 4218,
+    "categories": [
+      "South Indian",
+      "North Indian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Alphazap",
+    "time": 25
+  }, {
+    "id": "6dba8039-88c9-4ea8-9ec7-f35d67ee9aa5",
+    "stars": 3.0,
+    "total_votes": 3026,
+    "reviews": 182,
+    "cost_for_one": 2708,
+    "categories": [
+      "Continental",
+      "Mughlai",
+      "Italian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": false
+    },
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "fav": false,
+    "name": "Redhold",
+    "time": 17
+  }, {
+    "id": "2dce09c3-0e84-4b40-be61-0ec604e6583a",
+    "stars": 1.6,
+    "total_votes": 1455,
+    "reviews": 30,
+    "cost_for_one": 4891,
+    "categories": [
+      "Italian",
+      "South Indian",
+      "Continental"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Voyatouch",
+    "time": 38
+  }, {
+    "id": "3efe6655-e789-4cab-a55f-a4859229eefa",
+    "stars": 3.4,
+    "total_votes": 6657,
+    "reviews": 710,
+    "cost_for_one": 950,
+    "categories": [
+      "Mughlai",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": false
+    },
+    "img": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "fav": false,
+    "name": "Konklux",
+    "time": 38
+  }, {
+    "id": "c6f9e1a9-0ad2-46f5-a706-031bc0b3b788",
+    "stars": 3.7,
+    "total_votes": 2850,
+    "reviews": 464,
+    "cost_for_one": 3231,
+    "categories": [
+      "Mughlai"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Span",
+    "time": 23
+  }, {
+    "id": "b0ce0d0f-9a12-4015-ae3a-e185caa3e760",
+    "stars": 3.5,
+    "total_votes": 4705,
+    "reviews": 358,
+    "cost_for_one": 1142,
+    "categories": [
+      "Mughlai"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": false
+    },
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NDR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Fix San",
+    "time": 38
+  }, {
+    "id": "732c0970-5333-4038-82bf-5b308162f3ba",
+    "stars": 3.1,
+    "total_votes": 6817,
+    "reviews": 113,
+    "cost_for_one": 4096,
+    "categories": [
+      "North Indian",
+      "Mughlai",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": false
+    },
+    "img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Cookley",
+    "time": 24
+  }, {
+    "id": "49c1c410-6763-41aa-9aed-578d56dbefe7",
+    "stars": 2.7,
+    "total_votes": 5743,
+    "reviews": 15,
+    "cost_for_one": 1590,
+    "categories": [
+      "Italian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": false
+    },
+    "img": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Cookley",
+    "time": 39
+  }, {
+    "id": "39e41dbe-afd9-4716-ab86-5983dc306799",
+    "stars": 4.8,
+    "total_votes": 7283,
+    "reviews": 78,
+    "cost_for_one": 2454,
+    "categories": [
+      "Italian",
+      "Chinese",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NDR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Bamity",
+    "time": 45
+  }, {
+    "id": "1b69d444-2d6f-4c83-95e9-e3abbb091e98",
+    "stars": 4.5,
+    "total_votes": 705,
+    "reviews": 220,
+    "cost_for_one": 3335,
+    "categories": [
+      "Continental",
+      "Mughlai"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "fav": false,
+    "name": "Voyatouch",
+    "time": 34
+  }, {
+    "id": "3525ccc6-cdfd-4fe9-9f9e-749c5bf6e1e4",
+    "stars": 3.9,
+    "total_votes": 4541,
+    "reviews": 993,
+    "cost_for_one": 4628,
+    "categories": [
+      "Italian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NDR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Sub-Ex",
+    "time": 21
+  }, {
+    "id": "44423deb-0a89-4bb3-8a9a-2fcfab33d128",
+    "stars": 2.6,
+    "total_votes": 4617,
+    "reviews": 371,
+    "cost_for_one": 4955,
+    "categories": [
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "fav": false,
+    "name": "Subin",
+    "time": 34
+  }, {
+    "id": "bfbb38de-70c2-4bfe-961f-f8d3829604ab",
+    "stars": 1.5,
+    "total_votes": 2049,
+    "reviews": 164,
+    "cost_for_one": 4581,
+    "categories": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "payment_method": {
+      "cash": true,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjR8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+    "fav": false,
+    "name": "Tres-Zap",
+    "time": 36
+  }, {
+    "id": "36d44e1e-3880-4f5e-b2f2-8e9f872cd825",
+    "stars": 1.7,
+    "total_votes": 4447,
+    "reviews": 48,
+    "cost_for_one": 3447,
+    "categories": [
+      "North Indian",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": true
+    },
+    "img": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "fav": false,
+    "name": "Wrapsafe",
+    "time": 27
+  }, {
+    "id": "5cfa5085-f41d-4700-9136-9c1e94212f68",
+    "stars": 4.3,
+    "total_votes": 9721,
+    "reviews": 523,
+    "cost_for_one": 2506,
+    "categories": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "payment_method": {
+      "cash": false,
+      "card": false
+    },
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "fav": false,
+    "name": "Trippledex",
+    "time": 44
+  }]
