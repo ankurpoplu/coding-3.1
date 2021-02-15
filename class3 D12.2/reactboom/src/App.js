@@ -2,8 +2,9 @@ import './App.css';
 // import Food from "./component/Food"
 // import Todo from "./component/Todo"
 // import Todo from "./TODO/Todo"
-import Card from "./compDesignCard/Card"
-import cardData from "./compDesignCard/cardData.json"
+// import Card from "./compDesignCard/Card"
+// import cardData from "./compDesignCard/cardData.json"
+import Grocery from "./grocery/Grocery"
 
 function App() {
   return (
@@ -11,8 +12,9 @@ function App() {
       {/* <Food></Food> */}
       {/* <Todo></Todo> */}
       {/* <Todo></Todo> */}
-      {cardData.map(e=><Card key={cardData.id} cardData={e}></Card>)}
-      
+      {/* {cardData.map(e=><Card key={cardData.id} cardData={e}></Card>)} */}
+      <Grocery></Grocery>
+
     </div>
   );
 }

@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+.Grocery{
+    display: flex;
+    flex-wrap: wrap;
+}
+#tit{
+    width: 100%;
+}
+#pag{
+    width: 100%;
+}

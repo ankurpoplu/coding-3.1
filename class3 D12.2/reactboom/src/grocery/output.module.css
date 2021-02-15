@@ -1,0 +1,43 @@
+.Output{
+    border: 1px solid gray;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#img1{
+    margin: 12% 2%;
+    border-radius: 10px;
+}
+.lef{
+    flex-basis: 30%;
+}
+
+.dsl{
+    margin-top: 20px;
+}
+#cnt{
+    display: flex;
+    width: 80%;
+    height: 30px;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.inc{
+    font-size: 22px;
+}
+#val{
+    font-size: 22px;
+    font-weight: 600;
+    margin: -5px 0 5px 0;
+}
+#stock{
+    margin-top: 80%;
+    border: 1px solid;
+    width: 60%;
+    margin-left: 10%;
+    padding: 10%;
+}
