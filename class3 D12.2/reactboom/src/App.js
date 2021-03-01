@@ -1,20 +1,14 @@
 import './App.css';
 // import Food from "./component/Food"
-// import Todo from "./component/Todo"
-// import Todo from "./TODO/Todo"
-// import Card from "./compDesignCard/Card"
-// import cardData from "./compDesignCard/cardData.json"
-import Grocery from "./grocery/Grocery"
+// import Getdata from "./getdata/Getdata"
+import Stopwatch from "./timer_stopwatch/Stopwatch"
 
 function App() {
   return (
     <div className="App">
       {/* <Food></Food> */}
-      {/* <Todo></Todo> */}
-      {/* <Todo></Todo> */}
-      {/* {cardData.map(e=><Card key={cardData.id} cardData={e}></Card>)} */}
-      <Grocery></Grocery>
-
+      {/* <Getdata></Getdata> */}
+      <Stopwatch></Stopwatch>
     </div>
   );
 }

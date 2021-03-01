@@ -4,7 +4,7 @@ import { AiOutlineMinus,AiOutlinePlus } from "react-icons/ai";
 
 const Output = ({data})=>{
     const [counter,setCounteer] = useState(0)
-    const {product_name,image_url,description,is_available,price,id} = data
+    const {product_name,image_url,description,is_available,price} = data
     return(
         <div className={style.Output}>
             <div className={style.lef}>
