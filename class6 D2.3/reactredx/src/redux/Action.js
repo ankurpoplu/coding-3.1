@@ -1,4 +1,4 @@
-import {ADD_COUNTER, REDUCE_COUNTER} from "./ActionType"
+import {ADD_COUNTER, REDUCE_COUNTER, MULTIPLY_COUNTER, DIVIDE_COUNTER} from "./ActionType"
 
 
 const addCounter = (payload) =>{
@@ -15,4 +15,18 @@ const reduceCounter = payload => {
     }
 }
 
-export {addCounter,reduceCounter}
+const multiplycounter = payload => {
+    return {
+        type: MULTIPLY_COUNTER,
+        payload
+    }
+}
+
+const dividecounter = payload => {
+    return {
+        type: DIVIDE_COUNTER,
+        payload
+    }
+}
+
+export {addCounter,reduceCounter,multiplycounter,dividecounter}

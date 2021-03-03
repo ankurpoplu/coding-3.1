@@ -1,4 +1,4 @@
-import {ADD_COUNTER,REDUCE_COUNTER} from "./ActionType"
+import {ADD_COUNTER,DIVIDE_COUNTER,MULTIPLY_COUNTER,REDUCE_COUNTER} from "./ActionType"
 
 const initState = {
     counter:0
@@ -17,6 +17,18 @@ export const Reducer = ( state = initState , {type,payload}) => {
             return {
                 ...state,
                 counter: state.counter - payload
+            }
+        }
+        case MULTIPLY_COUNTER:{
+            return {
+                ...state,
+                counter: state.counter * payload
+            }
+        }
+        case DIVIDE_COUNTER:{
+            return {
+                ...state,
+                counter: state.counter / payload
             }
         }
         default :{
