@@ -1,4 +1,4 @@
-import {ADD_COUNTER, REDUCE_COUNTER, MULTIPLY_COUNTER, DIVIDE_COUNTER} from "./ActionType"
+import {ADD_COUNTER, REDUCE_COUNTER, MULTIPLY_COUNTER, DIVIDE_COUNTER, ADD_TODOS, TOGGLE_TODO} from "./ActionType"
 
 
 const addCounter = (payload) =>{
@@ -29,4 +29,18 @@ const dividecounter = payload => {
     }
 }
 
-export {addCounter,reduceCounter,multiplycounter,dividecounter}
+const addTodos = payload => {
+    return {
+        type: ADD_TODOS,
+        payload
+    }
+}
+
+const toggleTodo = payload =>{
+    return{
+        type:TOGGLE_TODO,
+        payload
+    }
+}
+
+export {addCounter,reduceCounter,multiplycounter,dividecounter,addTodos,toggleTodo}

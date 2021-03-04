@@ -1,10 +1,14 @@
 import './App.css';
-import Counter from './componentcal/Counter';
+import TodoInplist from './Todocomponent/TodoInplist';
+import TodoInput from './Todocomponent/TodoInput';
+import TodoList from './Todocomponent/TodoList';
+// import Counter from './componentcal/Counter';
 
 function App() {
   return (
     <div className="App">
-      <Counter></Counter>
+      <TodoInput></TodoInput>
+      <TodoList></TodoList>
     </div>
   );
 }
