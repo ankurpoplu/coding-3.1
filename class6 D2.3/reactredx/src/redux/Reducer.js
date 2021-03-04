@@ -1,6 +1,7 @@
 import {ADD_COUNTER,ADD_TODOS,DIVIDE_COUNTER,MULTIPLY_COUNTER,REDUCE_COUNTER, TOGGLE_TODO} from "./ActionType"
 
 const initState = {
+    counter:0,
     todo:[]
 }
 

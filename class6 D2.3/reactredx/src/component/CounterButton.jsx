@@ -1,9 +1,11 @@
 import React from 'react'
-import { ReduxContext } from '../Context/ReduxProvider'
+import { useDispatch } from 'react-redux'
+// import { ReduxContext } from '../Context/ReduxProvider'
 import {addCounter,reduceCounter} from "../redux/Action"
 
 function CounterButton() {
-    const {dispatch} = React.useContext(ReduxContext)
+    // const {dispatch} = React.useContext(ReduxContext)
+    const dispatch = useDispatch()
 
     const handleAdd = () =>{
         const addAction = addCounter(1)
