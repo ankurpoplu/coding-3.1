@@ -1,7 +1,7 @@
 import React from 'react'
 import { useDispatch } from 'react-redux'
 // import { ReduxContext } from '../Context/ReduxProvider'
-import {addCounter,reduceCounter} from "../redux/Action"
+import {addCounter,reduceCounter} from "../Redux/Todo/action"
 
 function CounterButton() {
     // const {dispatch} = React.useContext(ReduxContext)

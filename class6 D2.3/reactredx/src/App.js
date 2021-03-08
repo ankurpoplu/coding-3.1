@@ -1,14 +1,12 @@
 import './App.css';
-import Counter from './component/Counter';
-// import TodoInput from './Todocomponent/TodoInput';
-// import TodoList from './Todocomponent/TodoList';
+// import Routes from './Routes/Routes';
+import Routes from "./RoutesStudent/Routes"
 
 function App() {
   return (
     <div className="App">
-      <Counter></Counter>
-      {/* <TodoInput></TodoInput> */}
-      {/* <TodoList></TodoList> */}
+      {/* <Routes/> */}
+      <Routes />
     </div>
   );
 }
